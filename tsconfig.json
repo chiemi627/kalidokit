@@ -16,6 +16,7 @@
         "strictFunctionTypes": true,
         "strictPropertyInitialization": true,
         "strictBindCallApply": true,
+        "skipLibCheck": true
     },
     "exclude": [
         "node_modules",
